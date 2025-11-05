@@ -24,8 +24,7 @@ export default function AboutSection() {
             <section id="me">
               <h2 className="text-xl font-semibold mb-2">Me</h2>
               <p>
-                I'm a web developer with a passion for creating intuitive, user-friendly digital experiences. My journey into web development started from a curiosity about how things work behind the screen, and it evolved into a professional pursuit driven by continuous learning. I enjoy transforming ideas into functional, well-crafted products—whether it's building sleek UIs or optimizing back-end performance.
-              </p>
+                A fresh graduate in Informatics Engineering with a strong interest in web development. Through a six-month MSIB program, I deepened my knowledge of React and basic backend development while enhancing my teamwork skills. The success of our final project, which received recognition as one of the best projects, demonstrates my commitment and capabilities. I am currently focused on developing my backend skills to achieve my long-term goal of becoming a competent, adaptive Fullstack Developer who continuously grows with technological advancements.</p>
             </section>
 
             {/* 02 Tech Stack */}
@@ -43,10 +42,9 @@ export default function AboutSection() {
                 I've completed several certifications to deepen my knowledge and validate my skills, including:
               </p>
               <ul className="list-disc list-inside mt-2 space-y-1">
-                <li>Meta Front-End Developer – Coursera</li>
-                <li>Back-End Developer Path – Dicoding</li>
-                <li>Responsive Web Design – freeCodeCamp</li>
-                <li>JavaScript Algorithms and Data Structures – freeCodeCamp</li>
+                <li>React – Complete Guide: Expert React (incl. Hooks, React Router) – Dicoding</li>
+                <li>Node.js – Learning to Build Back-End Applications for Beginners – Dicoding</li>
+                <li>Junior Web Programmer – BNSP Certification Exam</li>
               </ul>
             </section>
           </div>

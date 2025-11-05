@@ -4,7 +4,7 @@ import { Project } from "@/types/project";
 export const projects: Project[] = [
   {
     id: 1,
-    title: "CRM ISP – Website (proyek pribadi)",
+    title: "CRM ISP – Website",
     description:
       "Mengembangkan dan mengimplementasikan sistem Customer Relationship Management (CRM) untuk Internet Service Provider (ISP) dengan tujuan meningkatkan efisiensi operasional dan kualitas layanan pelanggan. Sistem ini, dibangun menggunakan Next.js untuk frontend dan FastAPI untuk backend, mendukung empat peran utama yaitu Customer, Customer Service, Technician, dan Admin yang mengintegrasikan pengelolaan data pelanggan, sistem tiket, pembayaran dan otomatisasi alur kerja lainnya dalam satu sistem.",
     techStack: ["Next.js", "FastAPI"],
@@ -13,7 +13,7 @@ export const projects: Project[] = [
   },
   {
     id: 2,
-    title: "Fajar Indo Rubber – Website (freelance)",
+    title: "Fajar Indo Rubber – Website",
     description:
       "Mengembangkan website company profile untuk Fajar Indo Rubber, perusahaan spesialis cetak karet berkualitas tinggi untuk kebutuhan industri. Website ini dibangun menggunakan Laravel dan Tailwind CSS dengan tampilan responsif dan modern. Sistem dilengkapi dengan dashboard manajemen konten yang memungkinkan pengelolaan informasi layanan, produk seperti seal karet, gasket, serta produk custom sesuai spesifikasi pelanggan.",
     techStack: ["Laravel", "Tailwind CSS"],
@@ -22,7 +22,7 @@ export const projects: Project[] = [
   },
   {
     id: 3,
-    title: "PusGo (Pusat Gempa Online) – Website (proyek sertifikasi)",
+    title: "PusGo (Pusat Gempa Online) – Website",
     description:
       "Mengembangkan sistem informasi gempa bumi berbasis web yang memanfaatkan laporan dari pengguna dan integrasi data real-time melalui API BMKG. Proyek ini terdiri dari frontend berbasis React.js dan backend menggunakan Node.js dengan Express.js, serta memanfaatkan MySQL dan Prisma sebagai ORM. Peta interaktif dibangun dengan React Leaflet untuk menampilkan lokasi gempa.",
     techStack: [
@@ -38,7 +38,7 @@ export const projects: Project[] = [
   },
   {
     id: 4,
-    title: "Thread – Website (proyek sertifikasi)",
+    title: "Thread – Website",
     description:
       "Membangun aplikasi web Thread App, platform media sosial sederhana seperti Twitter yang memungkinkan pengguna membuat thread, memberikan balasan, serta memberikan like atau dislike pada postingan. Aplikasi ini dikembangkan menggunakan React dan Redux untuk pengelolaan state, dengan pengujian otomatis menggunakan Cypress serta dokumentasi UI dengan Storybook.",
     techStack: ["React", "Redux", "Cypress", "Storybook"],
@@ -47,7 +47,7 @@ export const projects: Project[] = [
   },
   {
     id: 5,
-    title: "UI MBKM Kampus Widyatama – Design (proyek kampus)",
+    title: "UI MBKM Kampus Widyatama – UIUX",
     description:
       "Mengembangkan user interface dalam pengembangan website pengelolaan program MBKM Universitas Widyatama. Perancangan dilakukan secara menyeluruh menggunakan Figma, dimulai dari pembuatan design system untuk memastikan konsistensi visual, kemudian dilanjutkan dengan rancangan antarmuka dashboard untuk tiga peran utama pengguna: Dosen, Mahasiswa, dan Program Studi (Prodi). Desain difokuskan pada kemudahan navigasi, aksesibilitas, dan pengalaman pengguna yang optimal.",
     techStack: ["Figma", "UI/UX Design"],
