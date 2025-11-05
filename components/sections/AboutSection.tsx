@@ -31,7 +31,7 @@ export default function AboutSection() {
             <section id="tech-stack">
               <h2 className="text-xl font-semibold mb-2">Tech Stack</h2>
               <p>
-                My primary stack includes <strong>React.js</strong>, <strong>Next.js</strong>, <strong>Tailwind CSS</strong>, and <strong>TypeScript</strong> for front-end development. On the back-end, I'm comfortable working with <strong>Node.js</strong>, <strong>Express</strong>, and <strong>MongoDB</strong>, along with RESTful APIs and authentication systems. For version control and deployment, I rely on <strong>Git</strong>, <strong>GitHub</strong>, and <strong>Vercel</strong> or <strong>Netlify</strong>.
+                My primary stack includes <strong>React.js</strong>, <strong>Next.js</strong>, <strong>Tailwind CSS</strong>, and <strong>TypeScript</strong> for front-end development. On the back-end, I'm comfortable working with <strong>Node.js</strong>, <strong>Express</strong>, and <strong>MySQL</strong>, along with RESTful APIs and authentication systems. For version control and deployment, I rely on <strong>Git</strong>, <strong>GitHub</strong>, and <strong>Vercel</strong> or <strong>Netlify</strong>.
               </p>
             </section>
 

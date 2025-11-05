@@ -58,7 +58,7 @@ export default function ProjectSection() {
                   href={project.link}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-blue-600 hover:underline text-sm font-medium"
+                  className="text-blue-600 hover:underline text-sm font-medium hidden"
                 >
                   Lihat Project →
                 </a>
