@@ -1,13 +1,13 @@
 export default function AboutSection() {
   return (
     <div className="py-16">
-      <div className="max-w-6xl mx-auto">
-        <div className="grid grid-cols-12">
-          <div className="col-span-3">
+      <div className="max-w-6xl mx-auto px-4">
+        <div className="grid grid-cols-1 md:grid-cols-12 gap-8">
+          <div className="md:col-span-3">
             <h1 className="text-3xl font-medium  mb-8">
               ABOUT
             </h1>
-            <ul className="flex flex-col gap-8">
+            <ul className="hidden md:flex flex-col gap-8">
               <li>
                 <span>01 </span>me
               </li>
@@ -19,7 +19,7 @@ export default function AboutSection() {
               </li>
             </ul>
           </div>
-          <div className="col-span-9 space-y-12">
+          <div className="md:col-span-9 space-y-12">
             {/* 01 Me */}
             <section id="me">
               <h2 className="text-xl font-semibold mb-2">Me</h2>

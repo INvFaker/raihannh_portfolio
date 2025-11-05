@@ -3,7 +3,7 @@ import Image from "next/image"
 export default function HeroSection() {
   return (
     <div className="pt-16">
-      <div className="max-w-6xl mx-auto h-screen flex items-center justify-center gap-8">
+      <div className="max-w-6xl mx-auto px-4 h-screen flex flex-col md:flex-row items-center justify-center gap-8">
         <div>
           <p className="text-2xl font-bold">Hello, Im</p>
           <h1 className="text-5xl font-bold tracking-wider">Raihan <span className="block">Nur Hanif</span></h1>
