@@ -2,7 +2,7 @@ import Image from "next/image"
 
 export default function HeroSection() {
   return (
-    <div className="max-w-6xl min-h-[100dvh] mx-auto flex flex-col-reverse lg:flex-row justify-center gap-4 items-center border-b border-white">
+    <div className="max-w-6xl min-h-[100dvh] mx-auto flex flex-col-reverse lg:flex-row justify-center gap-4 items-center">
       <div className="flex flex-col text-center items-center lg:items-start lg:text-left">
         <p className="text-2xl font-bold">Hello, Im</p>
         <h1 className="text-5xl font-bold tracking-wider">Raihan <span className="block">Nur Hanif</span></h1>

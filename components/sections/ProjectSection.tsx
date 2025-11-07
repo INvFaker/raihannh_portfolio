@@ -23,7 +23,7 @@ export default function ProjectSection() {
   }, []);
 
   return (
-    <div className="py-16">
+    <div id="projects" className="py-16">
       <div className="max-w-6xl mx-auto px-4">
         <h1 className="text-3xl font-medium mb-8">
           PROJECT

@@ -5,7 +5,7 @@ import { Button } from "../ui/button";
 
 export default function ContactSection() {
   return (
-    <div className="py-16">
+    <div id="contact" className="py-16">
       <div className="max-w-6xl mx-auto px-4">
         <div className="text-center mb-8">
           <h1 className="text-3xl font-medium">
